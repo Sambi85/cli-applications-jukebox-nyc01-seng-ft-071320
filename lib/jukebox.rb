@@ -51,7 +51,6 @@ def run
     
   if input == "exit"
     exit_jukebox
-    break
   end
 end
 
