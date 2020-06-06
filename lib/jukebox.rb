@@ -55,6 +55,17 @@ if input == 'exit'
   exit_jukebox
 end
 
+if input == 'help'
+  help
+end
+
+if input == 'list'
+  list
+end
+
+if input == 'play'
+  play
+end
 
 end
 
