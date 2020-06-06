@@ -58,7 +58,7 @@ if input == "help"
     end
 
 if input == "list" 
-  list
+  list(songs)
     end
 
 if input == "play" 
