@@ -52,7 +52,7 @@ def run
 i = 0
 j = 1
 
-while i < j
+while i < j do
 
 if input == 'exit'
   exit_jukebox
