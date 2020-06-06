@@ -48,6 +48,10 @@ def exit_jukebox
 def run
   puts "Please enter a command:"
     input = get_input
- print exit_jukebox
+
+pp input
+    
+  if input == "exit"
+  end
 end
 
