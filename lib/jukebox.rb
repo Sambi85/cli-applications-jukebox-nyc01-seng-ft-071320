@@ -60,11 +60,11 @@ if input == 'help'
 end
 
 if input == 'list'
-  list
+  list(get_input)
 end
 
 if input == 'play'
-  play
+  play(get_input)
 end
 
 end
