@@ -48,23 +48,11 @@ def exit_jukebox
 #---------------------------------------------------------------#
 
 def run
-puts "Please enter a command:"
-input = get_input
+  puts "Please enter a command:"
+    input = get_input
 
 if input == 'exit'
   exit_jukebox
-end
-
-if input == 'help'
-  help
-end
-
-if input == 'list'
-  list(get_input)
-end
-
-if input == 'play'
-  play(get_input)
 end
 
 end
