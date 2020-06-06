@@ -49,7 +49,7 @@ def run
   puts "Please enter a command:"
     input = get_input
 
-pp input
+print input
     
   if input == "exit"
   end
