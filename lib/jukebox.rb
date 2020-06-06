@@ -52,7 +52,7 @@ def run
     input = get_input
 
 if input == 'exit'
-  exit_jukebox
+  pp exit_jukebox
   end
 end
 
