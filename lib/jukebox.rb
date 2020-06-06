@@ -22,8 +22,6 @@ def get_input
   gets.strip
     end
 
-#----------------------------------------------------------------#
-
 def play(songs) 
   prompt
     input = get_input
