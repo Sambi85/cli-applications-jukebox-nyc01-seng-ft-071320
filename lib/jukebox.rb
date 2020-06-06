@@ -51,10 +51,10 @@ def run
   puts "Please enter a command:"
     input = get_input
 
-pp exit_jukebox
+pp input
 
 if input == 'exit'
-    exit_jukebox
+    exit_jukeboxs
   end
 end
 
