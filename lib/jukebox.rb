@@ -49,9 +49,9 @@ def run
   puts "Please enter a command:"
     input = get_input
 
-if input == 'exit'
-    exit_jukebox
+  if input == 'exit'
+      exit_jukebox
+    end
   end
-end
 
 
