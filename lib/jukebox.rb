@@ -62,7 +62,7 @@ if input == "list"
     end
 
 if input == "play" 
-  play
+  play(songs)
     end
 
 end
